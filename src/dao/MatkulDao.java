@@ -16,7 +16,7 @@ import model.Matkul;
 
 /**
  *
- * @author gugi
+ * @author dhika
  */
 public class MatkulDao {
     private Connection connection;
